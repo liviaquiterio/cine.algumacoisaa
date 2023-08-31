@@ -16,8 +16,8 @@ body {
 }
 
 img {
-    width: 1300px;
-    height: 600px;
+    width: 1250px;
+    height: 500px;
     justify-content: center;
     text-align: center;
 }
@@ -27,10 +27,10 @@ text-align: justify;
 
 }
 
-.box figure {
-    width: 250px;
+.inline figure {
+    width: 50px;
     height: 0px;
-    text-align: center;
+    text-align: space;
     margin: 0 auto;
 
 }
