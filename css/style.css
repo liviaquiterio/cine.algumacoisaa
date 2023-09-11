@@ -14,8 +14,8 @@ body {
 }
 
 .inline img {
-    width: 1250px;
-    height: 500px;
+    width: 2100px;
+    height: 700px;
     justify-content: center;
     text-align: center;
 }
@@ -36,10 +36,14 @@ text-align: justify;
 .box img {
     width: 150px;
     height: 150px;
-    text-align: row-reverse;
+   padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
     display: flex;
-    align-items: flex-start;
-    margin: 0 auto;
+    justify-content: space-between;
+    align-items: row-reverse;
+    margin-bottom: 2px;
+    margin-top: 2px;
 }
 
 .box {
